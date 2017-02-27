@@ -1,0 +1,8 @@
+Windows active mq installation 
+1. Download from the link http://activemq.apache.org/activemq-5143-release.html
+2. Open the bin folder in Active Mq
+3. run the InstallService.bat in win64/win32
+4. For the first time you have to start the service in the task manager in windows - 
+5. The default port of activemq is 8161
+6. Once your activemq is up and runing, go to localhost:8161 and manage the Mqbroker
+7. The default username and password is admin and admin
